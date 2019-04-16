@@ -1,0 +1,24 @@
+{"lang":"en",
+ "name":"pwaworkshop-master",
+ "short_name":"pwamaster",
+ "description":"a pwa tutorial website",
+ "icons":[   
+           {
+            "src": "images/ashpot.png",
+            "sizes": "50x50",
+            "type": "image/png"
+         },
+        {
+            "src": "images/android-chrome-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        }
+			
+			],
+ " start_url":"/",
+ "display":"fullscreen",
+ "orientation":" any ",
+ "background_color":"#ffffff",
+ " theme_color":"#ffff1fff",
+
+}
